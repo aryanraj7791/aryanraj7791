@@ -496,21 +496,6 @@ src="https://leetcard.jacoblin.cool/btech1046922?theme=dark&font=Karma&ext=heatm
 
 ---
 
-<!-- ===================================================== -->
-<!--                  ACHIEVEMENTS                         -->
-<!-- ===================================================== -->
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=aryanraj7791&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 <div align="center">
 
 ### ⭐ If you like my work, consider giving a star to my repositories ⭐
