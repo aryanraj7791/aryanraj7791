@@ -81,3 +81,19 @@ Open To:
   - AI Engineer
   - Machine Learning Engineer
 ```
+
+## 💡 Who Am I?
+
+I enjoy building intelligent software powered by AI and scalable backend technologies.
+
+My primary interests include:
+
+- 🤖 Generative AI
+- 🧠 Large Language Models
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI
+- 🌐 Full Stack Development
+- 📊 Machine Learning
+- ☁ Cloud Deployment
+
+I love transforming ideas into production-ready applications that solve real-world problems.
