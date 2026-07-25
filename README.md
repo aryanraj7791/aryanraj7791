@@ -44,10 +44,10 @@ Building intelligent systems with AI, LLMs, Machine Learning and scalable backen
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=aryanraj7791&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue"/>
+<img src="https://img.shields.io/github/followers/aryanraj7791?label=Followers&style=flat&color=blue"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat&color=yellow"/>
+<img src="https://img.shields.io/github/stars/aryanraj7791?affiliations=OWNER&style=flat&color=yellow"/>
 
 </p>
