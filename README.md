@@ -18,10 +18,8 @@ AI Engineer • Software Developer • Data Scientist
 
 ---
 
-<p align="center">
-
-Building intelligent systems with AI, LLMs, Machine Learning and scalable backend technologies.
-
+<p align='center'>
+  🚀 Currently building production-ready AI systems with LangGraph, FastAPI, Gemini, Qdrant, and React.
 </p>
 
 ---
