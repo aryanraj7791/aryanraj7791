@@ -258,3 +258,229 @@ I love transforming ideas into production-ready applications that solve real-wor
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2"/>
 
+
+<!-- ===================================================== -->
+<!--                 FEATURED PROJECTS                     -->
+<!-- ===================================================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+Projects that demonstrate my expertise in AI, Machine Learning, Full Stack Development, and scalable backend systems.
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">
+🌍 Agentic RAG Travel Planner
+</h3>
+
+<p align="center">
+
+<a href="https://agentic-rag-travel-planner.netlify.app">
+
+<img src="assets/home-page.png" width="100%"/>
+
+</a>
+
+</p>
+
+<p>
+
+An AI-powered travel planning assistant that combines <b>Agentic AI</b>, <b>Hybrid RAG</b>, and <b>real-time APIs</b> to generate personalized itineraries.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://agentic-rag-travel-planner.netlify.app">
+<img src="https://img.shields.io/badge/🌐 Live Demo-success?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/aryanraj7791/Agentic_RAG_Travel_Planner.git">
+<img src="https://img.shields.io/badge/📂 Repository-181717?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">
+🤖 AI Teaching Assistant
+</h3>
+
+<p align="center">
+
+<img src="assets/chat-interface.png" width="100%"/>
+
+</p>
+
+<p>
+
+An intelligent teaching assistant powered by Retrieval-Augmented Generation (RAG), Whisper transcription, semantic search, and LLM-based response generation.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BGE--M3-blue?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/aryanraj7791/RAG_based_AI_teaching_assistant.git">
+<img src="https://img.shields.io/badge/📂 Repository-181717?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">
+📈 California House Price Prediction
+</h3>
+
+<p>
+
+A production-ready Machine Learning application for predicting California housing prices using a trained Random Forest model with a Flask backend and React frontend.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/aryanraj7791/California_house_price_prediction-Frontend">
+<img src="https://img.shields.io/badge/🌐 Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+
+<a href="https://github.com/aryanraj7791/California_house_price_prediction-Backend-">
+<img src="https://img.shields.io/badge/⚙️ Backend-009688?style=for-the-badge&logo=flask&logoColor=white"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">
+💡 More Projects
+</h3>
+
+<p>
+
+✔ Deep Learning
+
+<br>
+
+✔ Data Science
+
+<br>
+
+✔ Machine Learning
+
+<br>
+
+✔ Backend APIs
+
+<br>
+
+✔ Java Projects
+
+<br>
+
+✔ React Applications
+
+<br>
+
+✔ Python Automation
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/aryanraj7791?tab=repositories">
+
+<img src="https://img.shields.io/badge/View_All_Repositories-0A66C2?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">
+🏆 Highlights
+</h2>
+
+<p align="center">
+
+✨ Production-ready AI applications
+
+<br>
+
+🌍 Deployed full-stack projects
+
+<br>
+
+⚡ FastAPI + React architecture
+
+<br>
+
+🤖 Agentic AI & Hybrid RAG
+
+<br>
+
+📊 Machine Learning & Data Science
+
+<br>
+
+☁ Cloud deployment using Render & Netlify
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2"/>
