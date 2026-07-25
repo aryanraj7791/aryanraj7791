@@ -51,3 +51,33 @@ Building intelligent systems with AI, LLMs, Machine Learning and scalable backen
 <img src="https://img.shields.io/github/stars/aryanraj7791?affiliations=OWNER&style=flat&color=yellow"/>
 
 </p>
+
+## 🚀 About Me
+
+```yaml
+Name: Aryan Raj
+
+Education:
+  Bachelor of Technology (Electronics & Communication Engineering)
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Large Language Models
+  - Agentic RAG
+  - Backend Development
+
+Currently Building:
+  - Agentic AI Travel Planner
+
+Learning:
+  - Kubernetes
+  - AWS
+  - MLOps
+
+Open To:
+  - Software Engineer
+  - AI Engineer
+  - Machine Learning Engineer
+```
