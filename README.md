@@ -277,7 +277,7 @@ A selection of projects showcasing my work in AI, Machine Learning, Full Stack D
 
 <a href="https://agentic-rag-travel-planner.netlify.app">
 
-<img src="./assets/travel-planner-home.png" width="90%" alt="Agentic RAG Travel Planner"/>
+<img src="https://raw.githubusercontent.com/aryanraj7791/Agentic_RAG_Travel_Planner/main/assets/travel-planner-home.png" width="90%" alt="Agentic RAG Travel Planner"/>
 
 </a>
 
@@ -366,6 +366,12 @@ A full-stack Machine Learning application for predicting California housing pric
 </p>
 
 <p>
+
+<a href="YOUR_LIVE_DEMO">
+  
+<img src="https://img.shields.io/badge/🚀 Live Demo-success?style=for-the-badge"/>
+
+</a>
 
 <a href="https://github.com/aryanraj7791/California_house_price_prediction-Frontend">
 
