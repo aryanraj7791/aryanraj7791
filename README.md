@@ -25,3 +25,19 @@ Building intelligent systems with AI, LLMs, Machine Learning and scalable backen
 </p>
 
 ---
+
+<p align="center">
+
+<a href="https://github.com/aryanraj7791">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-raj-79246b280/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aryanraj5371@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
