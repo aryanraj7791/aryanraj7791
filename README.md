@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- ===================================================== -->
+<!--                 HERO SECTION                          -->
+<!-- ===================================================== -->
 
-<!--
-**aryanraj7791/aryanraj7791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi 👋, I'm Aryan Raj
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+AI Engineer • Software Developer • Data Scientist
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=600&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Machine+Learning+Engineer;Data+Scientist;Generative+AI+Developer;Full+Stack+Developer;Backend+Developer;Open+Source+Enthusiast" />
+
+</p>
+
+---
+
+<p align="center">
+
+Building intelligent systems with AI, LLMs, Machine Learning and scalable backend technologies.
+
+</p>
+
+---
