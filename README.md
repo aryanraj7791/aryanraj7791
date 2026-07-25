@@ -470,3 +470,28 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=aryanraj7791
 </p>
 
 ---
+
+<!-- ===================================================== -->
+<!--              CODING PROFILES                          -->
+<!-- ===================================================== -->
+
+<h2 align="center">💻 Coding Profiles</h2>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/btech1046922/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+src="https://leetcard.jacoblin.cool/btech1046922?theme=dark&font=Karma&ext=heatmap"/>
+
+</p>
+
+---
