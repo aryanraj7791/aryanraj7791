@@ -99,3 +99,162 @@ I love transforming ideas into production-ready applications that solve real-wor
 > **"Build systems that solve problems—not just code that compiles."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+<!-- ===================================================== -->
+<!--                 TECH STACK                            -->
+<!-- ===================================================== -->
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<br>
+
+<table align="center">
+
+<tr>
+<td align="center" width="250">
+
+### 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,sql"/>
+
+</p>
+
+</td>
+
+<td align="center" width="250">
+
+### 🌐 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind"/>
+
+</p>
+
+</td>
+
+<td align="center" width="250">
+
+### ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express"/>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+<td align="center">
+
+### 🤖 AI / ML
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+<td align="center">
+
+### ☁️ DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">🚀 Areas of Expertise</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Generative_AI-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Retrieval_Augmented_Generation-00C9FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend_Development-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full_Stack_Development-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MLOps-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-8E44AD?style=for-the-badge"/>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2"/>
+
