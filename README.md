@@ -285,7 +285,7 @@ Projects that demonstrate my expertise in AI, Machine Learning, Full Stack Devel
 
 <a href="https://agentic-rag-travel-planner.netlify.app">
 
-<img src="assets/home-page.png" width="100%"/>
+<img src="assets/travel-planner-home.png" width="100%"/>
 
 </a>
 
@@ -313,7 +313,7 @@ An AI-powered travel planning assistant that combines <b>Agentic AI</b>, <b>Hybr
 <img src="https://img.shields.io/badge/🌐 Live Demo-success?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/aryanraj7791/Agentic_RAG_Travel_Planner.git">
+<a href="https://github.com/aryanraj7791/Agentic_RAG_Travel_Planner">
 <img src="https://img.shields.io/badge/📂 Repository-181717?style=for-the-badge"/>
 </a>
 
@@ -329,7 +329,7 @@ An AI-powered travel planning assistant that combines <b>Agentic AI</b>, <b>Hybr
 
 <p align="center">
 
-<img src="assets/chat-interface.png" width="100%"/>
+<img src="assets/chat_interface.png" width="100%"/>
 
 </p>
 
@@ -350,7 +350,7 @@ An intelligent teaching assistant powered by Retrieval-Augmented Generation (RAG
 
 <p align="center">
 
-<a href="https://github.com/aryanraj7791/RAG_based_AI_teaching_assistant.git">
+<a href="https://github.com/aryanraj7791/RAG_based_AI_teaching_assistant">
 <img src="https://img.shields.io/badge/📂 Repository-181717?style=for-the-badge"/>
 </a>
 
@@ -384,6 +384,10 @@ A production-ready Machine Learning application for predicting California housin
 </p>
 
 <p align="center">
+
+<a href="https://california-house-price-predict-aryan.netlify.app/">
+<img src="https://img.shields.io/badge/🚀 Live Demo-success?style=for-the-badge"/>
+</a>
 
 <a href="https://github.com/aryanraj7791/California_house_price_prediction-Frontend">
 <img src="https://img.shields.io/badge/🌐 Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
