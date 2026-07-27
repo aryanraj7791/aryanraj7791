@@ -367,7 +367,7 @@ A full-stack Machine Learning application for predicting California housing pric
 
 <p>
 
-<a href="YOUR_LIVE_DEMO">
+<a href="https://california-house-price-predict-aryan.netlify.app/">
   
 <img src="https://img.shields.io/badge/🚀 Live Demo-success?style=for-the-badge"/>
 
