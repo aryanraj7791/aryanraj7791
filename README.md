@@ -57,6 +57,7 @@ Name: Aryan Raj
 
 Education:
   Bachelor of Technology (Electronics & Communication Engineering)
+  CGPA : 7.80
 
 Interests:
   - Artificial Intelligence
