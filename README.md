@@ -56,7 +56,8 @@ AI Engineer • Software Developer • Data Scientist
 Name: Aryan Raj
 
 Education:
-  BIT Mesra - Bachelor of Technology (Electronics & Communication Engineering, CGPA: 7.80/10)
+  Bachelors of Technology in Electronics & Communication Engineering
+  BIT Mesra | CGPA: 7.80/10
 
 Interests:
   - Artificial Intelligence
