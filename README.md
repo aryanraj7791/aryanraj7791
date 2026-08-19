@@ -448,19 +448,25 @@ A full-stack Machine Learning application for predicting California housing pric
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=aryanraj7791&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-       alt="Aryan's GitHub Stats" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=aryanraj7791&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Aryan's GitHub Stats"
+  />
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj7791&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Aryan's Top Languages" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj7791&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Aryan's Top Languages"
+  />
 </p>
+
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.demolab.com/?user=aryanraj7791&theme=tokyonight&hide_border=true"
-    alt="Aryan's GitHub Streak" />
+    src="https://streak-stats.demolab.com/?user=aryanraj7791&theme=tokyonight&hide_border=true"
+    alt="Aryan's GitHub Streak"
+  />
 </p>
 
 ---
