@@ -436,7 +436,10 @@ A full-stack Machine Learning application for predicting California housing pric
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2"
+  alt="divider"
+/>
 
 <!-- ===================================================== -->
 <!--              GITHUB ANALYTICS                         -->
@@ -445,18 +448,19 @@ A full-stack Machine Learning application for predicting California housing pric
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=aryanraj7791&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=aryanraj7791&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+       alt="Aryan's GitHub Stats" />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj7791&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj7791&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Aryan's Top Languages" />
 </p>
 
 <p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=aryanraj7791&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://github-readme-streak-stats.demolab.com/?user=aryanraj7791&theme=tokyonight&hide_border=true"
+    alt="Aryan's GitHub Streak" />
 </p>
 
 ---
@@ -464,10 +468,9 @@ src="https://github-readme-streak-stats.herokuapp.com?user=aryanraj7791&theme=to
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=aryanraj7791&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aryanraj7791&theme=tokyo-night&hide_border=true"
+    alt="Aryan's GitHub Activity Graph" />
 </p>
 
 ---
