@@ -447,12 +447,12 @@ A full-stack Machine Learning application for predicting California housing pric
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
+<div align="center">
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com?user=aryanraj7791&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
