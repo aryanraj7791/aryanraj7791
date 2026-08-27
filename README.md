@@ -278,7 +278,7 @@ A selection of projects showcasing my work in AI, Machine Learning, Full Stack D
 
 <a href="https://agentic-rag-travel-planner.netlify.app">
 
-<img src="https://raw.githubusercontent.com/aryanraj7791/Agentic_RAG_Travel_Planner/main/assets/travel-planner-home.png" width="90%" alt="Agentic RAG Travel Planner"/>
+<img src="https://raw.githubusercontent.com/aryanraj7791/Agentic_RAG_Travel_Planner/main/assets/Travel-planner-home-page.png" width="90%" alt="Agentic RAG Travel Planner"/>
 
 </a>
 
