@@ -460,7 +460,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=aryanraj7791&theme=to
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph-five-ochre.vercel.app/graph?username=aryanraj7791&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph-five-ochre.vercel.app/graph?username=aryanraj7791&theme=tokyo-night&hide_border=true&v=1"
     alt="Aryan's GitHub Activity Graph" />
 </p>
 
